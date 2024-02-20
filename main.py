@@ -1,6 +1,7 @@
 from os.path import join
-from pytmx.util_pygame import load_pygame
+from level import Level
 from settings import *
+from pytmx.util_pygame import load_pygame
 
 
 
